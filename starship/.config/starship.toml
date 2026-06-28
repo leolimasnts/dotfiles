@@ -1,0 +1,9 @@
+command_timeout = 2000
+scan_timeout = 2000
+
+[os]
+disabled = false
+format = "[$symbol ](bold)"
+
+[os.symbols]
+Arch = "Arch Linux"
