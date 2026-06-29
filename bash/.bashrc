@@ -3,5 +3,3 @@
 
 # All the default aliases and functions
 source "$HOME/.config/bash/rc.sh"
-
-. "$HOME/.local/bin/env"
