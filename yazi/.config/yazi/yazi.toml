@@ -1,0 +1,11 @@
+[mgr]
+sort_dir_first = true
+show_symlink = true
+show_hidden = true
+
+[preview]
+tab_size = 4
+image_quality = 90
+
+[input]
+cursor_blink = true
