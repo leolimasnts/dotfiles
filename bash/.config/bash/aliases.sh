@@ -47,4 +47,7 @@ function y() {
     command rm -f -- "$tmp"
 }
 
+# info
+alias info='info --vi-keys'
+
 export PATH="$HOME/.cargo/bin:$PATH"
