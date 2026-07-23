@@ -7,7 +7,7 @@ if command -v eza &>/dev/null; then
 fi
 
 # fzf
-alias ff="fzf --preview 'bat --style=numbers --color=always {}'"
+alias ff="fzf -i --preview 'bat --style=numbers --color=always {}'"
 
 # zoxide
 if command -v zoxide &>/dev/null; then
